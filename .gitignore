@@ -1,0 +1,25 @@
+*/target/*
+.idea/*
+*.iml
+atlassian-ide-plugin.xml
+*.orig
+/logs/*
+*/logs/*
+target/*
+rebel.xml
+*/bin/*
+*/build/*
+.settings/*
+.svn/*
+.project
+*/.settings/*
+*/.svn/*
+*/.project
+.classpath
+*.log
+/target/
+/ru/ibs/gasu/gchp/common/soap/generated/
+/src/main/java/ru/ibs/gasu/gchp/common/soap/generated/
+/src/main/java/ru/ibs/gasu/soap/generated/
+### Custom
+application-local.properties
