@@ -1,4 +1,4 @@
-package org.examlpe;
+package ru.mortihead;
 
 
 import org.springframework.boot.SpringApplication;
